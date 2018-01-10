@@ -4,7 +4,7 @@ package com.best.zzh;
  * Created by BG276137 on 2017/12/28
  */
 public class ProducerConsumerTest {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Object lock = new Object();
         final Producer producer = new Producer(lock);
         final Consumer consumer = new Consumer(lock);
@@ -12,7 +12,7 @@ public class ProducerConsumerTest {
         Runnable producerRunnable = new Runnable() {
             @Override
             public void run() {
-                while (true){
+                while (true) {
                     producer.setValue();
                 }
             }
@@ -20,7 +20,7 @@ public class ProducerConsumerTest {
         Runnable consumerRunnable = new Runnable() {
             @Override
             public void run() {
-                while(true){
+                while (true) {
                     consumer.getValue();
                 }
             }

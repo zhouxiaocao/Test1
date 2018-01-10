@@ -4,7 +4,73 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5d0654-91ab-4ad9-bd70-0378df44e63f" name="Default" comment="" />
+    <list default="true" id="fd5d0654-91ab-4ad9-bd70-0378df44e63f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/C.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/CopyOnWriteArrayListTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/Domain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/EndExam.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/Exam.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/FinalString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/MainTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/T1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/T2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/Teacher.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/Test1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/Test2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/Test1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/ThreadTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/ThreadTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/cglib/Dao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/cglib/DaoAnotherProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/cglib/DaoFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/cglib/DaoProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/Consumer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/Producer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/ProducerConsumerTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/ProducerConsumerTest$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/ProducerConsumerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/QueueTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/QueueTest$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/QueueTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/Reflection.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/Test2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/ValueObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/checkstyle-idea.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/dictionaries/BG276137.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/Test1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/C.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/CopyOnWriteArrayListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Domain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Exam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/FinalString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/MainTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/ThreadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/Dao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoAnotherProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Producer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/ProducerConsumerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/QueueTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Reflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/ValueObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../Test1/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +120,8 @@
       <file leaf-file-name="Exam.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Test1/src/Exam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="56">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#819#828#0" expanded="true" />
@@ -66,16 +132,6 @@
                 <element signature="e#3754#3755#0" expanded="true" />
                 <element signature="e#3794#3795#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeUnit.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_67/src.zip!/java/util/concurrent/TimeUnit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="71" column="4" lean-forward="false" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -127,6 +183,9 @@
       <find>synchronizedList</find>
       <find>writeObject</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Test1" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -229,6 +288,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -263,6 +323,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CopyOnWriteArrayListTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -273,7 +339,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -542,12 +608,12 @@
       <workItem from="1514016407398" duration="10000" />
       <workItem from="1514445060541" duration="8980000" />
       <workItem from="1514548231989" duration="2333000" />
-      <workItem from="1515573803843" duration="1999000" />
+      <workItem from="1515573803843" duration="2523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21453000" />
+    <option name="totallyTimeSpent" value="21977000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,13 +637,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35785952" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35785952" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39018953" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2631016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1084,8 +1150,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Test1/src/Exam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="56">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#819#828#0" expanded="true" />

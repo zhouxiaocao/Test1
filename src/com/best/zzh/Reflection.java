@@ -9,10 +9,10 @@ import java.util.List;
 @SuppressWarnings("serial")
 public class Reflection implements Cloneable, Serializable
 {
+    public static short s;
+    public boolean b;
     private String     str;
     private double     d;
-    public     boolean b;
-    public static short s;
 
     public Reflection()
     {
@@ -31,39 +31,12 @@ public class Reflection implements Cloneable, Serializable
         this.b = b;
     }
 
-    private void privateMethod()
-    {
-
-    }
-
-    public String publicMethod()
-    {
-        privateMethod();
-        return null;
-    }
-
-    public String publicMethod(int i)
-    {
-        return null;
-    }
-
-    public String publicMethod(int i, double d, List<String> l)
-    {
-        return "Reflection.publicMethod(int i, double d), i = " + i + ", d = " + d;
-    }
-
     public static int returnOne()
     {
         return 1;
     }
 
-    public String toString()
-    {
-        return "str = " + str + ", d = " + d + ", b = " + b;
-    }
-
-    public static void main(String[] args) throws Exception
-    {
+    public static void main(String[] args) throws Exception {
        /* Class<?> c = Class.forName("com.best.zzh.Reflection");
         Reflection[] rs = new Reflection[2];
 
@@ -119,5 +92,26 @@ public class Reflection implements Cloneable, Serializable
         f1.setDouble(r, 1.1);
         System.out.println("After setB()：" + r); // 向对象的指定Field设定值
 
+    }
+
+    private void privateMethod() {
+
+    }
+
+    public String publicMethod() {
+        privateMethod();
+        return null;
+    }
+
+    public String publicMethod(int i) {
+        return null;
+    }
+
+    public String publicMethod(int i, double d, List<String> l) {
+        return "Reflection.publicMethod(int i, double d), i = " + i + ", d = " + d;
+    }
+
+    public String toString() {
+        return "str = " + str + ", d = " + d + ", b = " + b;
     }
 }

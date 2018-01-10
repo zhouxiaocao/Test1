@@ -5,11 +5,12 @@ package com.best.zzh;
  */
 public class Consumer {
     private Object lock;
-    public Consumer(Object lock){
-        this.lock=lock;
+
+    public Consumer(Object lock) {
+        this.lock = lock;
     }
 
-    public void getValue(){
+    public void getValue() {
         try {
             synchronized (lock) {
                 if (ValueObject.value.equals("")) {
@@ -19,7 +20,7 @@ public class Consumer {
                 ValueObject.value = "";
                 lock.notify();
             }
-        }catch (InterruptedException e){
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
     }

@@ -9,15 +9,7 @@ import java.lang.reflect.Method;
  */
 public class DaoProxy implements MethodInterceptor {
 
-    @Override
-    public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
-        System.out.println("before Method Invoke.");
-        methodProxy.invokeSuper(o,objects);
-        System.out.println("After Method Invoke");
-
-        return o;
-    }
-    public static void main(String[] args){
+    public static void main(String[] args) {
          /*   DaoProxy daoProxy = new DaoProxy();
 
             Enhancer enhancer = new Enhancer();
@@ -32,11 +24,20 @@ public class DaoProxy implements MethodInterceptor {
 
         Enhancer enhancer = new Enhancer();
         enhancer.setSuperclass(Dao.class);
-        enhancer.setCallbacks(new Callback[]{daoProxy, daoAnotherProxy, NoOp.INSTANCE});
+        enhancer.setCallbacks(new Callback[] {daoProxy, daoAnotherProxy, NoOp.INSTANCE});
         enhancer.setCallbackFilter(new DaoFilter());
 
-        Dao dao = (Dao)enhancer.create();
+        Dao dao = (Dao) enhancer.create();
         dao.update();
         dao.select();
+    }
+
+    @Override
+    public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
+        System.out.println("before Method Invoke.");
+        methodProxy.invokeSuper(o, objects);
+        System.out.println("After Method Invoke");
+
+        return o;
     }
 }
