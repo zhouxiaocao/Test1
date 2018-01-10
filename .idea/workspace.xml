@@ -38,38 +38,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/Reflection.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/Test2.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/out/production/Test1/com/best/zzh/ValueObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/checkstyle-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/dictionaries/BG276137.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/Test1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/CopyOnWriteArrayListTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Domain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Exam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/FinalString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/MainTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/ThreadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/Dao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoAnotherProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Producer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/ProducerConsumerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/QueueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Reflection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Test1/src/com/best/zzh/ValueObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../Test1/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,16 +89,16 @@
         <entry file="file://$PROJECT_DIR$/../Test1/src/Exam.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#819#828#0" expanded="true" />
-                <element signature="e#2709#2710#0" expanded="true" />
-                <element signature="e#2739#2740#0" expanded="true" />
-                <element signature="e#2783#2784#0" expanded="true" />
-                <element signature="e#2821#2822#0" expanded="true" />
-                <element signature="e#3754#3755#0" expanded="true" />
-                <element signature="e#3794#3795#0" expanded="true" />
+                <element signature="e#821#830#0" expanded="true" />
+                <element signature="e#2748#2749#0" expanded="true" />
+                <element signature="e#2778#2779#0" expanded="true" />
+                <element signature="e#2823#2824#0" expanded="true" />
+                <element signature="e#2861#2862#0" expanded="true" />
+                <element signature="e#3803#3804#0" expanded="true" />
+                <element signature="e#3843#3844#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -608,12 +576,20 @@
       <workItem from="1514016407398" duration="10000" />
       <workItem from="1514445060541" duration="8980000" />
       <workItem from="1514548231989" duration="2333000" />
-      <workItem from="1515573803843" duration="2523000" />
+      <workItem from="1515573803843" duration="2598000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1515576421717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515576421717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21977000" />
+    <option name="totallyTimeSpent" value="22052000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,24 +674,31 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Test1/src/com/best/zzh/Reflection.java</url>
-          <line>88</line>
+          <line>61</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoProxy.java</url>
-          <line>13</line>
+          <line>36</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Test1/src/com/best/cglib/DaoProxy.java</url>
-          <line>20</line>
+          <line>12</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -739,19 +722,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Test1/src/Exam.java</url>
-          <line>132</line>
+          <line>139</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Test1/src/Exam.java</url>
-          <line>85</line>
+          <line>87</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../Test1/src/Exam.java</url>
-          <line>117</line>
+          <line>123</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -885,9 +868,9 @@
         <state relative-caret-position="364">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#124#125#0" expanded="false" />
-            <element signature="e#173#174#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
+            <element signature="e#180#181#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#275#276#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -980,6 +963,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -987,6 +973,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1022,6 +1011,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,6 +1019,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1036,6 +1027,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,16 +1145,16 @@
     <entry file="file://$PROJECT_DIR$/../Test1/src/Exam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#819#828#0" expanded="true" />
-            <element signature="e#2709#2710#0" expanded="true" />
-            <element signature="e#2739#2740#0" expanded="true" />
-            <element signature="e#2783#2784#0" expanded="true" />
-            <element signature="e#2821#2822#0" expanded="true" />
-            <element signature="e#3754#3755#0" expanded="true" />
-            <element signature="e#3794#3795#0" expanded="true" />
+            <element signature="e#821#830#0" expanded="true" />
+            <element signature="e#2748#2749#0" expanded="true" />
+            <element signature="e#2778#2779#0" expanded="true" />
+            <element signature="e#2823#2824#0" expanded="true" />
+            <element signature="e#2861#2862#0" expanded="true" />
+            <element signature="e#3803#3804#0" expanded="true" />
+            <element signature="e#3843#3844#0" expanded="true" />
           </folding>
         </state>
       </provider>
